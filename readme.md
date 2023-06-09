@@ -1,6 +1,6 @@
 # 💾 Discord Backup Bot 💾 
 
-Join us on [Discord](https://discord.gg/Xv8UynvgZp) for support and updates! 🎉
+Join us on [Discord](https://discord.gg/UWRAjqjNjz) for support and updates! 🎉
 
 ## Description
 
